@@ -1,0 +1,15 @@
+C:\Users\TECHNOLIFE7050\source\repos\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.bot
+C:\Users\TECHNOLIFE7050\source\repos\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.deps.json
+C:\Users\TECHNOLIFE7050\source\repos\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.runtimeconfig.json
+C:\Users\TECHNOLIFE7050\source\repos\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.runtimeconfig.dev.json
+C:\Users\TECHNOLIFE7050\source\repos\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.dll
+C:\Users\TECHNOLIFE7050\source\repos\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.pdb
+C:\Users\TECHNOLIFE7050\source\repos\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.csprojAssemblyReference.cache
+C:\Users\TECHNOLIFE7050\source\repos\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.csproj.CoreCompileInputs.cache
+C:\Users\TECHNOLIFE7050\source\repos\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.RazorAssemblyInfo.cache
+C:\Users\TECHNOLIFE7050\source\repos\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.RazorAssemblyInfo.cs
+C:\Users\TECHNOLIFE7050\source\repos\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.AssemblyInfoInputs.cache
+C:\Users\TECHNOLIFE7050\source\repos\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.AssemblyInfo.cs
+C:\Users\TECHNOLIFE7050\source\repos\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.RazorTargetAssemblyInfo.cache
+C:\Users\TECHNOLIFE7050\source\repos\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.dll
+C:\Users\TECHNOLIFE7050\source\repos\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.pdb
